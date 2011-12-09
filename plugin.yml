@@ -1,0 +1,9 @@
+name: FindPlayer
+main: me.polaris120990.find.Find
+version: 1.0
+author: polaris120990
+description: >
+             Displays a players location.
+commands:
+   find:
+      description: Displays a players location.
